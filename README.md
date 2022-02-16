@@ -1,6 +1,6 @@
 # CSET-160: Web Development II
 
-View these notes at [ts-cset.github.io/cset-160/](https://ts-cset.github.io/cset-160/).
+View these notes at [fahimshams.github.io/CSET-160-Web-Development-II/](https://fahimshams.github.io/CSET-160-Web-Development-II/).
 
 
 ## Lecture Notes
@@ -16,5 +16,5 @@ When in a slideshow, use the following keys to navigate:
 
 ## Questions?
 
-If you have any questions on this repository or any of the info within, feel free to contact [Zach Fedor](mailto:fedor@stevenscollege.edu).
+If you have any questions on this repository or any of the info within, feel free to contact [Fahim Shams](mailto:shams@stevenscollege.edu).
 
