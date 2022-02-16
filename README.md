@@ -1,6 +1,6 @@
 # CSET-160: Web Development II
 
-View these notes at [ts-cset.github.io/cset-160/](https://ts-cset.github.io/cset-160/).
+View these notes at [fahimshams.github.io/CSET-160-Web-Development-II/](https://fahimshams.github.io/CSET-160-Web-Development-II/).
 
 
 ## Lecture Notes
